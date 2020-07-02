@@ -7,12 +7,17 @@
   "engines": {
     "node": ">=6.13.0"
   },
-  "scripts": {},
+  "scripts": {
+    "start": "nodemon ./server/index.js"
+  },
   "dependencies": {
     "@babel/preset-env": "^7.10.2",
     "@babel/preset-react": "^7.10.1",
     "babel-jest": "^26.0.1",
     "express": "^4.17.1",
+    "http-proxy-middleware": "^1.0.4",
+    "nodemon": "^2.0.4",
+    "path": "^0.12.7",
     "react-test-renderer": "^16.13.1"
   },
   "devDependencies": {

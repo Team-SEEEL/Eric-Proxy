@@ -4,10 +4,10 @@
 
 ## Related Projects
 
-  - https://github.com/teamName/repo
-  - https://github.com/teamName/repo
-  - https://github.com/teamName/repo
-  - https://github.com/teamName/repo
+  - https://github.com/Team-SEEEL/Q-A
+  - https://github.com/Team-SEEEL/main-product
+  - https://github.com/Team-SEEEL/reviews
+  - https://github.com/Team-SEEEL/Related-items-carousel
 
 ## Table of Contents
 
